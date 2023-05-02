@@ -1,0 +1,19 @@
+{
+  "name": "nankusushi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "sass": "sass --watch styles/scss/:styles/css/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nicobernazar/nankusushi.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nicobernazar/nankusushi/issues"
+  },
+  "homepage": "https://github.com/nicobernazar/nankusushi#readme"
+}
